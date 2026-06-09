@@ -1,4 +1,4 @@
-# CLA Replication
+# BLA Replication
 
 This repository contains the code, input data, and precomputed outputs needed to reproduce the experiments for the paper.
 
@@ -7,7 +7,7 @@ The anonymization stage can be slow, especially for the full set of projects and
 ## Contents
 
 ```text
-CLA/
+repo-root/
   README.md
   MANIFEST.md
   requirements.txt
@@ -44,7 +44,7 @@ Purpose of each folder:
 After unzipping the artifact into the repository root, the layout should include:
 
 ```text
-CLA/
+repo-root/
   anon_results/
   lace-results/
   results/
