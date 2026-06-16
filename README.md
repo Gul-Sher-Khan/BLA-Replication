@@ -1,4 +1,4 @@
-# BLA Replication
+# BSA Replication
 
 This repository contains the code, input data, and precomputed outputs needed to reproduce the experiments for the paper.
 
